@@ -8,12 +8,8 @@ A Simple Movie Application using React JS ,allows the user to search and filter 
 For UI creation HTML5 and CSS3 and material-UI are used
 
 This is a responsive web application for viewing in both Mobile and Desktop.
-<!-- # ScreenShots -->
-
-## Home Page
-   <kbd><img src="https://drive.google.com/uc?id=1fEpBRkFQvX3zhUDGflPHDEq7e_j8AZWP"/></kbd>
  
-  ## Run these Commands:
+## Run these Commands:
  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Step 1:Clone the repository
      git clone https://github.com/tech-jamara/React-Movie-App.git
