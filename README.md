@@ -8,11 +8,6 @@ A Simple Movie Application using React JS ,allows the user to search and filter 
 For UI creation HTML5 and CSS3 and material-UI are used
 
 This is a responsive web application for viewing in both Mobile and Desktop.
-
-## Demo
-
-Check out a live demo and try it for yourself: [demo](https://cinemy-movie-app.netlify.app/)
-
 <!-- # ScreenShots -->
 
 ## Home Page
@@ -31,20 +26,6 @@ Check out a live demo and try it for yourself: [demo](https://cinemy-movie-app.n
 #### Step 5:
      npm  start  
 
-## Single page 
- <kbd><img src="https://drive.google.com/uc?id=14xckC8Zbrvz2rUuHkh084pNZVnoarz-J"/></kbd>
-
- 
- ##
- MIT License
-
-Copyright (c) 2022 James Waweru
-
-
-<!-- <div> 
-      <kbd><img src="https://drive.google.com/uc?id=1-Ne-XbWZt1y2Tj6rh3VcJ2eQPcZXC0ci"  height='535' width='440' /> </kbd>  
-      <kbd><img src="https://drive.google.com/uc?id=1aK9Y8T847hrKUvVxHXkN3I9Ch2fam3Dz" height='535' width='290' /></kbd>
-</div> -->
   
 
  
